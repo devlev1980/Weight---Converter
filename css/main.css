@@ -1,0 +1,13 @@
+body{
+	background-color: #292b2c;
+	color: #ffffff;
+
+}
+.container{
+	width: 50%;
+	margin-top: 200px;
+}
+.card{
+	height: 80px;
+	padding: 20px 20px;
+}
